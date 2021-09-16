@@ -1,7 +1,13 @@
 #  O papel do hábito de estudo no desempenho do aluno de programação
-
+Cristina de Araújo, Elaine; Gaudencio, Matheus; Menezes, Andrew;Ferreira, Iury;Ribeiro, Iara; Fagner , Alberto; Ponciano, Lesandro; Morais, Fábio; S.Geurreiro, Dalton; A.Figueiredo, Jorge. "O papel do hábito de estudo no desempenho do aluno de programação".
 # Fichamento do conteúdo
-
+Como sabemos, para nós estudantes fazer exercícios relacionados as matérias que aprendemos é de extrema importância no processo de aprendizagem. Diferentes estudantes possuem hábitos e diferentes maneiras de estudar, cada um se adpata ao tempo que possui disponível para se dedicar a determinados contéudos. Dado os diferentes tipos de alunos, o trabalho apresentado busca caracterizar o desempenho de 100 alunos do curso de ciências da computação na UFCG na disciplina de Introdução à Programação.  A partir dos registros de submissões de exercícios dos alunos, foram medidos: tempo total de estudo; quantidade de exercícios resolvidos com sucesso; o número de sessões de estudos realizados durantes o semestre; o número de dias em que há apenas uma sessão de estudo; duração típica das sessões de estudo. Os dados obtidos foram confrotados com a nota final obtida por cada aluno. Nos resultados obtidos, foi analisado que os alunos que fizeram uma maior quantidade de exercícios corretamente durante o semestre, obtiveram maior nota final, assim como a distribuição do tempo de estudo em sessões diárias possibilitou um bom resultado aos alunos.
 # Fichamento bibliográfico
-
+- Hábito de estudo envolve uma certa disciplina e definição de horários e metas a serem cumprimidas, visando aprender e adquirir conhecimentos.
+- Aprendizagem é um processo que possibilita adquirir novos conhecimentos e hanilidades.
+- Exercício consiste no ato de desenvolver e praticar atividades visando aprimorar conhecimentos.
 # Fichamento de citações
+- "Técnicas de análise aplicadas ao contexto da educação. Esta disciplina, relativamente nova, é conhecida por “learning analytics” e objetiva, através da anélise de dados obtidos no processo de ensino e aprendizagem, construir conhecimento e realizar descobertas sobre como melhorar o processo educacional."
+- "Entende-se por sessão de estudo um período ininterrupto em que um aluno pára para se dedicar a entender e exercitar o conte´udo que vem sendo trabalhado em determinado assunto."
+- "Quando duas submissões consecutivas estão em uma mesma sessão, o intervalo de tempo entre elas é definido como thinking-time."
+- "Quando duas submissões consecutivas estão em sessões diferentes, o intervalo de tempo entre elas é definido como break-time."
