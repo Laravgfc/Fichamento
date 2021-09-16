@@ -7,8 +7,8 @@ O artigo analisado nos trás o conceito de Sistemas de Computação Humana, que 
 - Replicação de tarefas consiste na obtenção de tarefas reduntantes obtidas por sistemas de computação humana.
 - Grau de concordância de trabalhadores consiste na probablidade de diferentes trabalhadores terem uma mesma resposta ao executar uma tarefa.
 # 3. Fichamento de citações
-"Sistemas de computação por humanos são sistemas distribuídos que utilizam a cognição e a capacidade de raciocínio de seres humanos para resolver problemas que os computadores de silício ainda não podem resolver de forma satisfatória, mas que seres humanos são capazes de resolver de forma rápida e precisa."
-"O grau de dificuldade de uma tarefa é medido pelo grau de divergência dos trabalhadores entre as opcõess de resposta disponíveis."
-"O grau de concordância de um trabalhador é a probabilidade dele, ao executar uma nova tarefa, prover uma resposta igual à resposta que a maioria dos trabalhadores proviria considerando seu histórico de tarefas."
-"Acurácia: É a taxa de acerto nas tarefas ground truth. Ela é a razão entre o total de tarefas cujas respostas obtidas coincidem com as existentes na base ground truth e o total de tarefas ground truth."
-"Tarefas sem conclusão: É a proporção de tarefas que o algoritmo proposto não atingiu o limiar de credibilidade definido pelo dono da aplicacão. É calculado como a razão entre o núumero de tarefas que não atingiram o limiar de credibilidade e o número total de tarefas."
+- "Sistemas de computação por humanos são sistemas distribuídos que utilizam a cognição e a capacidade de raciocínio de seres humanos para resolver proble que os compuadores de silício ainda não podem resolver de forma satisfatória, mas que seres humanos são caapzes de resolver de forma rápida e precisa."
+- "O grau de dificulde de uma tarefa é medido pelo grau de diverg~encia dos trabalhadores entre as opções de resposta disponíveis."
+- "O grau de concordãncia de um trabalhador é a probilidade dele, ao executar uma nova tarefa, prover uma resposta que a maioria dos trabalhadores proviria considerando seu histórico de tarefas."
+- "Acurácia: é a taxa de acerto nas tarefas ground truth. Ela é a razão entre o total de tarefas cujas respostas obtidas coincidem com as existentes na base ground truth e o total de tarefas ground truth."
+- "Tarefas sem conclusão: é a proporção de tarefas que o algoritmo proposto não atingiu o limiar de credibilidade definido pelo dono da apliacação. É calculado como a razaõ entre o número de tarefas que não atingiram o limiar de credibilidade e o número total de tarefas."
